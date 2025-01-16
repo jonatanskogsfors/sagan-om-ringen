@@ -8,11 +8,11 @@ Jenni och Jonatan läser *Sagan om ringen*.
 
 ## Progress
 ### Ringens brödraskap
-- [Första boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/1) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/1?scale=2%cacheLive=300)
-- [Andra boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/2) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/2?scale=2%cacheLive=300)
+- [Första boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/1) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/1?scale=1%cacheLive=300)
+- [Andra boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/2) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/2?scale=1%cacheLive=300)
 ### De två tornen ![Badge - Progress]
-- [Tredje boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/3) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/3?scale=2%cacheLive=300)
-- [Fjärde bokeen](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/4) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/4?scale=2%cacheLive=300)
+- [Tredje boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/3) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/3?scale=1%cacheLive=300)
+- [Fjärde bokeen](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/4) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/4?scale=1%cacheLive=300)
 ### Konungens återkomst ![Badge - Progress]
-- [Femte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/5) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/5?scale=2%cacheLive=300)
-- [Sjätte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/6) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/6?scale=2%cacheLive=300)
+- [Femte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/5) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/5?scale=1%cacheLive=300)
+- [Sjätte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/6) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/6?scale=1%cacheLive=300)
