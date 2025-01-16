@@ -1,7 +1,7 @@
 # Sagan om ringen
 ![Badge - Lästa kapitel](https://badgen.net/github/closed-issues/jonatanskogsfors/sagan-om-ringen?label=Lästa%20kapitel&scale=2&acheLive=300)
 ![Badge - Kapitel kvar](https://badgen.net/github/open-issues/jonatanskogsfors/sagan-om-ringen?label=Kapitel%20kvar&scale=2&acheLive=300)
-![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/dagar-kvar/2025-12-31?scale=2%cacheLive=300)
+![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/dagar-kvar/2025/12/31?scale=2%cacheLive=300)
 ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/ringen-progress?scale=2%cacheLive=300)
 
 Jenni och Jonatan läser *Sagan om ringen*.
