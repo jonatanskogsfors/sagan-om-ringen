@@ -1,6 +1,6 @@
-# Sagan om de två tornen
-![Badge - Lästa kapitel](https://badgen.net/github/closed-issues/jonatanskogsfors/two-towers?label=Lästa%20kapitel&scale=2&acheLive=300)
-![Badge - Kapitel kvar](https://badgen.net/github/open-issues/jonatanskogsfors/two-towers?label=Kapitel%20kvar&scale=2&acheLive=300)
+# Sagan om ringen
+![Badge - Lästa kapitel](https://badgen.net/github/closed-issues/jonatanskogsfors/sagan-om-ringen?label=Lästa%20kapitel&scale=2&acheLive=300)
+![Badge - Kapitel kvar](https://badgen.net/github/open-issues/jonatanskogsfors/sagan-om-ringenlabel=Kapitel%20kvar&scale=2&acheLive=300)
 ![Badge - Dagar kvar](https://badgen.net/runkit/jonatanskogsfors/les-time?scale=2%cacheLive=300)
 ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/les-progres?scale=2%cacheLive=300)
 
