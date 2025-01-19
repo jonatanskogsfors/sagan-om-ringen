@@ -10,9 +10,9 @@ Jenni och Jonatan läser *Sagan om ringen*.
 ### Ringens brödraskap
 - [Första boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/1) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/Ringen%20brödrarskap:%20Första%20boken?scale=1%cacheLive=300)
 - [Andra boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/2) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/Ringens%20brödrarskap:%20Andra%20boken?scale=1%cacheLive=300)
-### De två tornen ![Badge - Progress]
+### De två tornen
 - [Tredje boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/3) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/De%20två%20tornen:%20Tredje%20boken?scale=1%cacheLive=300)
 - [Fjärde bokeen](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/4) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/De%20två%20tornen:%20Fjärde%20boken?scale=1%cacheLive=300)
-### Konungens återkomst ![Badge - Progress]
+### Konungens återkomst
 - [Femte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/5) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/Konungens%20återkomst:%20Femte%20boken?scale=1%cacheLive=300)
 - [Sjätte boken](https://github.com/jonatanskogsfors/sagan-om-ringen/milestone/6) ![Badge - Progress](https://badgen.net/runkit/jonatanskogsfors/progress/sagan-om-ringen/Konungens%20återkomst:%20Sjätte%20boken?scale=1%cacheLive=300)
